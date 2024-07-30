@@ -1,3 +1,3 @@
 Web layout for Urban Trading company
 --------
-web layout design
+layout for website
